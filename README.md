@@ -6,20 +6,20 @@
 
 <!-- Presentation -->
 <p>
-  Hi 👋, I'm Chris! A passionate Data Science student from Brazil.
+  Olá 👋, sou o kelvin! sou apaixonado em tecnologia
 
-  - 🌱 I’m currently studying Data Science and Computer Science at Harvard <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente estou estudando Engenharia de Software <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
 
-  - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
+  - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com oque eu realmente gosto..
 </p>
 
 <!-- Dropdown -->
 <details>
-  <summary>👨‍💻 More about me</summary>
+  <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
+  - 💬 Me chamo Eric Kelvin, tenho 18 anos e estou em busca de montar minha carreira, estou no primeiro semestre de Engenharia de Software e pretendo um dia me torna um grande Engenheiro!
 
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - ⚡ Sempre gostei muito de tecnologia, além de jogar e assistir filmes, gosto muito de sair de casa, conhecer lugares novos e viver momentos inéditos com meus amigos que fazem parte da minha vida. \o/
 </details>
 
 <!-- Links -->
