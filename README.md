@@ -8,7 +8,7 @@
 <p>
   Olá 👋, sou o kelvin! sou apaixonado em tecnologia
 
-  - 🌱 Atualmente estou estudando Engenharia de Software <img align="center" alt="html5" src="https://img.shields.io/badge/Edx-193A3E?style=for-the-badge&logo=edx&logoColor=white" />
+  - 🌱 Atualmente estou estudando Engenharia de Software 
 
   - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com oque eu realmente gosto..
 </p>
