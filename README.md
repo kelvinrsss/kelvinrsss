@@ -28,8 +28,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-kelvin-da-silva-205135365/)
 
 <!-- GithubStats -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelvinrsss&show_icons=true&theme=blue_navy&include_all_commits=true&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kelvinrsss&theme=blue_navy&layout=compact)
 <!-- Portfolio -->
 ## Portfolio:
 - [Seaborn Data Visualization](https://github.com/VariableBee/seaborn-data-visualization)
