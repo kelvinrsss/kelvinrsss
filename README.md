@@ -33,10 +33,7 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Meu Site](https://kelvinrsss.github.io/Meu-Site/)
-- [Exploratory Data Analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Interactive Data Visualization](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [Data Querying and Analysis](https://github.com/VariableBee/AWS_Athena_Queries)
-- [Client Registry System](https://github.com/VariableBee/Cartorio)
+- [Meus Projetos]([https://github.com/VariableBee/EDA_Loggi](https://github.com/kelvinrsss/Portifolio))
 
 <!-- GIF -->
 <p align="left">
