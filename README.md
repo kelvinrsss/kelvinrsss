@@ -33,7 +33,6 @@
 <!-- Portfolio -->
 ## Portfolio:
 - [Meu Site](https://kelvinrsss.github.io/Meu-Site/)
-- [Meus Projetos]([https://github.com/VariableBee/EDA_Loggi](https://github.com/kelvinrsss/Portifolio))
 
 <!-- GIF -->
 <p align="left">
