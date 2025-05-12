@@ -14,7 +14,7 @@
 </p>
 
 
-<details>
+
   <summary>👨‍💻 Mais sobre mim</summary>
 
   - 💬 Me chamo Eric Kelvin, tenho 18 anos e estou em busca de montar minha carreira, estou no primeiro semestre de Engenharia de Software e pretendo um dia me torna um grande Engenheiro!
