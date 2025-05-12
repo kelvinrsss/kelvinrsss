@@ -13,7 +13,7 @@
   - 🔭 Estou em busca da minha primeira oportunidade de emprego. Meu sonho é um dia trabalhar com oque eu realmente gosto..
 </p>
 
-<!-- Dropdown -->
+
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
